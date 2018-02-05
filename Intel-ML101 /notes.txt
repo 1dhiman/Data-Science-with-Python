@@ -1,3 +1,5 @@
+ML101: https://software.intel.com/en-us/ai-academy/students/kits/machine-learning-101
+
 TERMINAL:
 export PATH=~/anaconda3/bin:$PATH
 
