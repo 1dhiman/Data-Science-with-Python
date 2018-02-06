@@ -5,3 +5,21 @@ export PATH=~/anaconda3/bin:$PATH
 
 FOLLOW INSTRUCTION FROM:
 https://software.intel.com/en-us/articles/using-intel-distribution-for-python-with-anaconda 
+
+
+CLASS NOTES:
+
+Jupyter Cell Magics
+
+	%matplotlib inline: display plots inline in Jupyter notebook
+	%%timeit: time how long a cell takes to execute
+	%run filename.ipynb: execute code from another notebook or python file
+	%load filename.py: copy contents of the file and paste into the cell
+
+	Keyboard shortcuts can be viewed from Help → Keyboard Shortcuts
+
+	To extract Python code from a Jupyter notebook: File → Download as → .py
+
+Pandas
+
+
