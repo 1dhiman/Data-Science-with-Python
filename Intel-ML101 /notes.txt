@@ -22,4 +22,8 @@ Jupyter Cell Magics
 
 Pandas
 
+L1 - Euclidean distance
+L2 - Manhattan distance
+
+Standard error of the mean SEM - https://en.wikipedia.org/wiki/Standard_error 
 
